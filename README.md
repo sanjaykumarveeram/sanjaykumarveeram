@@ -12,8 +12,8 @@
 -     | Terraform | [project: Creating application server having application ready using Terraform]
 -     | Kubernetes | [Project: Managing different environment in kubernetes]
 -     | Prometheus | [Services: Processing & Monitoring time-series data using prometheus]
-- 💞️ I’m a Job Seeker !
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/veeram-sanjay-kumar-1335b8255
+- 💞️ I’m a fresher Job Seeker !
+- 📫 Reach me out on LinkedIn: https://www.linkedin.com/in/veeram-sanjay-kumar-1335b8255
 
 <!---
 sanjaykumarveeram/sanjaykumarveeram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
